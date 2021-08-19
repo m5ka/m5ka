@@ -1,10 +1,4 @@
-<h3 align="center">
-    Hi, I'm <b>Marzena</b> but call me <b>Zee</b>.
-</h3>
-
-<h2 align="center">
-    Full-Stack Web Developer 💻
-</h2>
+![](images/marzena-dev-banner.png)
 
 ## 🐝 Currently working on
 - [trans.gg](https://github.com/transgg/transgg) - a resource website for trans people

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="420"
+   viewBox="0 0 338.66666 111.125"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="marzena-dev-banner.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient821">
+      <stop
+         style="stop-color:#5f8dd3;stop-opacity:1"
+         offset="0"
+         id="stop817" />
+      <stop
+         style="stop-color:#5f5fd3;stop-opacity:1"
+         offset="1"
+         id="stop819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient821"
+       id="linearGradient823"
+       x1="238.125"
+       y1="189.65475"
+       x2="113.77084"
+       y2="292.46426"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="697.67527"
+     inkscape:cy="92.720417"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-185.87498)"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:2.51588559;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect815"
+       width="338.66666"
+       height="111.125"
+       x="0"
+       y="185.87498" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.98459721px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaff;fill-opacity:1;stroke:none;stroke-width:0.34961492"
+       x="24.973156"
+       y="44.344101"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="24.973156"
+         y="44.344101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#aaaaff;stroke-width:0.34961492">Hi, I'm Marzena.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.5360527px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:0.48840132"
+       x="24.225595"
+       y="66.325531"
+       id="text827-3"><tspan
+         sodipodi:role="line"
+         id="tspan825-1"
+         x="24.225595"
+         y="66.325531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#d7e3f4;stroke-width:0.48840132">Full-Stack Web Developer</tspan></text>
+    <image
+       y="1.7289425"
+       x="265.0611"
+       id="image928"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAABp1BMVEVHcEz////M193Dz8/M1t3N
+1t7K2NzM193M1d7M1t3J2uXK1NvL1d3M1t3M1t3M1t3J09rK09zM193K1tvM1t3M1t3M1t3M1t3M
+1t3N1t3M1t6hsLrN193M1t3M1t3N1t3H0dnI0tjK1NvM3NzM1t3M1t7M1t23xczI0tvM1t3L1tzM
+1t3M1t3M1t3M1t7N1t7M1t2ntr/M1t3M1t3M1t3N1t3M1t3M1t7M193M1t2uvMXM1t2susOzwMnM
+1t3M1t3N1t2ywcjM196mtb6yv8irucOsucKjsrujsryxvsesusO1wcq8yM+xv8jM1tyxvMSntr+n
+tb3M1t1dreyaqrSuu8Gxv8fA0d+0wcaRwOWCuue8yM7K1NvCzdW/ytLL1d2vvMLF0NfBzNObq7We
+rbfH0djDzdS7x87I09q2w8qxvcS9ydC6xsyyv8W4xMu+ytFlsOuks721wcjEz9XH0tnG1N5yterA
+y9LJ09tts+qpuMCzwMetu8Swy+HK1t6Hvee2zuCpyuKaxOS+0d+70N9erex3t+mTweSNv+aBu+eW
+wuWexeNir+tS161vAAAAUnRSTlMAASkE/kYMqlXMCf4R83fRNBc5IuF/9oTmoJn+UvD9aEAwvwdN
+7V0pG7pv+/nFi2KP4dX3srWU3OvYrKW7clquqWCS7X7Z6PfyUtX31FzWnPD4CyQAmwAADWZJREFU
+eNrsnVlTG0kWRoWQ2IKt2THgNpsDAzYExm4cRNgOP8w8dMRETLUMdgPWAgjEjgV2m9W7Pd3zo2f6
+aXpCytJWdfMWnPMHoO53VJmVdTMrFAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEoY
+a43214EA/dHWMV3Z14xM1zc5IEhT/fRIjY70q6LzXQRig675aJX9+OtmSMIeM7er7eZ/q4UQ7PIo
+anPsvxEhAdtEbjTYyj/Mz1/HTSBs6fY/QO2VPBJYGQb6J6m8Fib75fOPkr8iJsTvAa0s/OgaBVpl
+82/soOa66GgUXf6ZpeLaeCIpwGPqrY86wQWgHsqtjx65l0PdVFsjnWI3AFaAVDIgNQ9sptYqiTQL
+CfCIWuvkHzL5t1FprcisBt2j0FrpFhGgnkJr5a7IKvBNCq2ViRqmANebNgEBpiizXm6zDMgs0G8e
+Uma9PBMQoJcy66VXQIDaYv6Ri/OPLy9/BY+4fPnxPF5M3Wt1CPD58uAX8JiDy88BEeD48gtx+cGX
+78dBEODzO6Lyi3ef9Qvwnru/n+PAe+0CLJK/r6PAwaJyAb4Skr98VS1A/AMJ+c0HzQJcMAH0fyIY
+VyzAOfn4z7liAb4Tj/98VyzAG+LxnzeKBfg38QisBegV4Jh0JDhWK8Ai4UiwiAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgA
+CAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACA
+AIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAI
+gAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIgAAIUKoAF19Ix3++xNUK4BwQj/8cOHoFeEM8/vNGsQAv
+icd/vikW4D3x+M97xQIwBtgdAewLcE5AfnOuWgDnVxLyl385ugU4ZhDwlXfHygVwPr0jJR/z/+Ro
+F8A5/kpOfvF10dEvgHPxkQVBf5YAP144QRDgvzeB35kJeP/49/tx4cpLCPDUKYZPH/749hI84tsf
+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
+AAAA+PIGNrXjryVx4t8AAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="66.521591"
+       width="66.521591"
+       transform="rotate(5.9213471)" />
+  </g>
+</svg>
