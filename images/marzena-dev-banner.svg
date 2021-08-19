@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1280"
-   height="310"
-   viewBox="0 0 338.66666 82.020834"
+   height="240"
+   viewBox="0 0 338.66666 63.500001"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -43,7 +43,7 @@
        x2="113.77084"
        y2="292.46426"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.73809522,0,77.785707)" />
+       gradientTransform="matrix(1,0,0,0.57142854,0,127.28571)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="595.28643"
-     inkscape:cy="142.22954"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="640.9619"
+     inkscape:cy="73.608892"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -80,46 +80,46 @@
      inkscape:label="bg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-214.97914)"
+     transform="translate(0,-233.49997)"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:2.16145968;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:1.90183091;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect815"
        width="338.66666"
-       height="82.020836"
+       height="63.5"
        x="0"
-       y="214.97916" />
+       y="233.5" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="txt"
-     transform="translate(0,-29.104166)">
+     transform="translate(0,-47.624999)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.98459721px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaff;fill-opacity:1;stroke:none;stroke-width:0.34961492"
-       x="21.226011"
-       y="59.578465"
+       style="font-style:normal;font-weight:normal;font-size:9.74082661px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaff;fill-opacity:1;stroke:none;stroke-width:0.24352066"
+       x="49.348301"
+       y="74.569267"
        id="text827"><tspan
          sodipodi:role="line"
          id="tspan825"
-         x="21.226011"
-         y="59.578465"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#aaaaff;stroke-width:0.34961492">Hi, I'm Marzena.</tspan></text>
+         x="49.348301"
+         y="74.569267"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#aaaaff;stroke-width:0.24352066">Hi, I'm Marzena.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.5360527px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:0.48840132"
-       x="19.949284"
-       y="82.089058"
+       style="font-style:normal;font-weight:normal;font-size:13.6076355px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:0.34019089"
+       x="48.459007"
+       y="90.248787"
        id="text827-3"><tspan
          sodipodi:role="line"
          id="tspan825-1"
-         x="19.949284"
-         y="82.089058"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#d7e3f4;stroke-width:0.48840132">Full-Stack Web Developer</tspan></text>
+         x="48.459007"
+         y="90.248787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#d7e3f4;stroke-width:0.34019089">Full-Stack Web Developer</tspan></text>
     <image
-       y="8.1993341"
-       x="265.79474"
+       y="29.615517"
+       x="236.24591"
        id="image928"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAABp1BMVEVHcEz////M193Dz8/M1t3N
 1t7K2NzM193M1d7M1t3J2uXK1NvL1d3M1t3M1t3M1t3J09rK09zM193K1tvM1t3M1t3M1t3M1t3M
@@ -194,8 +194,8 @@ YYnLfxIGS4ksFpCGjVYND26wgKi/3zbBWnauxgMyqJ0JfmJbJLbqORf+b+rvK5sU5wAUs0ECAAAA
 AAAA+PIGNrXjryVx4t8AAAAASUVORK5CYII=
 "
        preserveAspectRatio="none"
-       height="60.922169"
-       width="60.922169"
+       height="44.051731"
+       width="44.051731"
        transform="rotate(5.9213471)" />
   </g>
 </svg>
