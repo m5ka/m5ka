@@ -3,6 +3,7 @@
 ## 🐝 Currently working on
 - [trans.gg](https://github.com/transgg/transgg) - a resource website for trans people
 - [conlang.dev](https://github.com/myriolang/conlang-dev) - a language documentation tool
+- [Kyanite](https://github.com/kyanite-lang/kyanite) - a powerful light-weight programming language
 
 ## 🍃 Currently learning
 - Django, through [trans.gg](https://github.com/transgg/transgg)
