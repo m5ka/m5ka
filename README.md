@@ -1,7 +1,7 @@
 ![](images/marzena-dev-banner.png)
 
 ## 🎮 Work
-I've been working at [Gamer Network](https://reedpop.com) since September 2021.
+I've been working at [Gamer Network](https://www.reedpop.com) since September 2021.
 
 ## 🐝 Personal projects
 - [trans.gg](https://github.com/transgg/transgg) - a resource website for trans people
