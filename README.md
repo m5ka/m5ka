@@ -1,12 +1,11 @@
 ![](images/marzena-dev-banner.png)
 
 ## 🎮 Work
-I've been working at [Gamer Network](https://www.reedpop.com) since September 2021.
+I've been working at [ReedPop](https://www.reedpop.com) as a Platform Developer since September 2021.
 
 ## 🐝 Personal projects
-- [trans.gg](https://github.com/transgg/transgg) - a resource website for trans people
 - [conlang.dev](https://github.com/myriolang/conlang-dev) - a language documentation tool
-- [Kyanite](https://github.com/kyanite-lang/kyanite) - a powerful light-weight programming language
+- [Kyanite](https://github.com/kyanite-lang/kyanite) - a light-weight programming language
 
 ## ⭐ My skills
 **Back-end**
