@@ -1,11 +1,12 @@
 ![](images/marzena-dev-banner.png)
 
 ## 🎮 Work
-I've been working at [ReedPop](https://www.reedpop.com) as a Platform Developer since September 2021.
+I've been working at [ReedPop](https://www.reedpop.com) as a Junior Developer since September 2021.
 
 ## 🐝 Personal projects
-- [conlang.dev](https://github.com/myriolang/conlang-dev) - a language documentation tool
-- [Kyanite](https://github.com/kyanite-lang/kyanite) - a light-weight programming language
+- [conlang.dev](https://github.com/conlangdev/conlangdev) - a language documentation tool
+- [scago](https://github.com/myriolang/scago) - a sound change applier for languages
+- [marzka.cafe](https://github.com/marzusia/marzka.cafe) - my personal website
 
 ## ⭐ My skills
 **Back-end**
@@ -16,6 +17,7 @@ I've been working at [ReedPop](https://www.reedpop.com) as a Platform Developer 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 **Front-end**
