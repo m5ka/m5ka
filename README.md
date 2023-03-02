@@ -7,6 +7,7 @@ I've been working at [ReedPop](https://www.reedpop.com) as a Junior Developer si
 - [conlang.dev](https://github.com/conlangdev/conlangdev) - a language documentation tool
 - [scago](https://github.com/myriolang/scago) - a sound change applier for languages
 - [marzka.cafe](https://github.com/marzusia/marzka.cafe) - my personal website
+- [makkulupy](https://pypi.org/project/makkulupy) - a python consumer for a language api
 
 ## ⭐ My skills
 **Back-end**
