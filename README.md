@@ -4,10 +4,10 @@
 I've been working at [ReedPop](https://www.reedpop.com) as a Junior Developer since September 2021.
 
 ## 🐝 Personal projects
-- [conlang.dev](https://github.com/conlangdev/conlangdev) - a language documentation tool (python)
-- [scago](https://github.com/conlangdev/scago) - a sound change applier for languages (go)
+- [cws2](https://github.com/m5ka/cws2) - a language documentation tool (python)
+- [scago](https://github.com/m5ka/scago) - a sound change applier for languages (go)
 - [marzka.cafe](https://github.com/m5ka/marzka.cafe) - my personal website (jekyll & html/css)
-- [makkulupy](https://github.com/m5ka/makkulupy) - language api consumer (python)
+- [poeia](https://github.com/m5ka/poeia) - simple no-js microblog site (go)
 
 ## ⭐ My skills
 **Back-end**
