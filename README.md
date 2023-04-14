@@ -7,7 +7,7 @@ I've been working at [ReedPop](https://www.reedpop.com) as a Junior Developer si
 - [cws2](https://github.com/m5ka/cws2) - a language documentation tool (python)
 - [scago](https://github.com/m5ka/scago) - a sound change applier for languages (go)
 - [marzka.cafe](https://github.com/m5ka/marzka.cafe) - my personal website (jekyll & html/css)
-- [poeia](https://github.com/m5ka/poeia) - simple no-js microblog site (go)
+- [poeia](https://github.com/m5ka/poeia) - lightweight no-js microblogging framework (go)
 
 ## ⭐ My skills
 **Back-end**
