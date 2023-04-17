@@ -1,7 +1,7 @@
 ![](images/marzena-dev-banner.png)
 
 ## 🎮 Work
-I've been working at [ReedPop](https://www.reedpop.com) as a Junior Developer since September 2021.
+I've been working at [ReedPop](https://www.reedpop.com) as a Platform Developer since September 2021.
 
 ## 🐝 Personal projects
 - [cws2](https://github.com/m5ka/cws2) - a language documentation tool (python)
