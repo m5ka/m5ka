@@ -4,15 +4,17 @@
 I've been working at [DeepL](https://deepl.com) as a Tooling Engineer since March 2024.
 
 ## 🐝 Personal projects
-- [cws2](https://github.com/m5ka/cws2) - a language documentation tool (python)
+- [cws2](https://github.com/m5ka/cws2) - a language documentation website (python)
+- [naoi](https://github.com/m5ka/naoi) - a lightweight self-hosted ci/cd platform (go & typescript)
+- [moku.blog](https://github.com/m5ka/moku.blog) - a food blogging website for the yesterweb (python)
 - [scago](https://github.com/m5ka/scago) - a sound change applier for languages (go)
 - [maria.town](https://github.com/m5ka/maria.town) - my personal website (jekyll & html/css)
-- [poeia](https://github.com/m5ka/poeia) - lightweight no-js microblogging framework (go)
 
 ## ⭐ My skills
 **Back-end**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
