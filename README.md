@@ -3,14 +3,20 @@
 ## 🎮 Work
 I've been working at [DeepL](https://deepl.com) as a Tooling Engineer since March 2024.
 
-## 🐝 Personal projects
+## 🐝 Projects
 - [cws2](https://github.com/m5ka/cws2) - a language documentation website (python)
 - [naoi](https://github.com/m5ka/naoi) - a lightweight self-hosted ci/cd platform (go & typescript)
 - [moku.blog](https://github.com/m5ka/moku.blog) - a food blogging website for the yesterweb (python)
 - [scago](https://github.com/m5ka/scago) - a sound change applier for languages (go)
 - [maria.town](https://github.com/m5ka/maria.town) - my personal website (jekyll & html/css)
+- [m5ka.dev](https://github.com/m5ka/m5ka.dev) - my digital curriculum vitae (html/css)
 
-## ⭐ My skills
+##  🔨 Setup
+- [nginx-conf](https://github.com/m5ka/nginx-conf) - nginx configuration and automated ssl management (nginx & python)
+- [go.m5ka.dev](https://github.com/m5ka/go.m5ka.dev) - my sally (go vanity urls) config (yaml)
+- [dotfiles](https://github.com/m5ka/dotfiles) - a spattering of miscellaneous config files
+
+## ⭐ Skills
 **Back-end**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
