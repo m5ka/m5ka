@@ -1,7 +1,7 @@
 ![](images/marzena-dev-banner.png)
 
 ## 🎮 Work
-I've been working at [DeepL](https://deepl.com) as a Tooling Engineer since March 2024.
+I've been working at [Yordas](https://yordasgroup.com) as a Software Engineer since November 2024.
 
 ## 🐝 Projects
 - [cws2](https://github.com/m5ka/cws2) - a language documentation website (python)
